@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dhjddcn)
 
-### 💬你好  
 我是一名前端开发编程者，热爱编程、热爱分享，代码改变世界。欢迎你对我的项目提出宝贵的意见和建议 ！
 
 ### 与我相关 
