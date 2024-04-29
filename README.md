@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 * [🎈&nbsp;&nbsp;我的博客](https://dhjdd.cn/)
 
 ### 技术相关 
-![skills](https://skillicons.dev/icons?perline=14&i=js,html,css,vue,vite,ts,nodejs,md,github,git,ps,linux,mysql,docker,nginx,idea)  
+![skills](https://skillicons.dev/icons?perline=14&i=js,html,css,vue,vite,ts,nodejs,github,git,linux,mysql,docker,nginx,idea)  
