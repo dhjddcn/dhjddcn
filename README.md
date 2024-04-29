@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[//]: # ![Github Stats](https://github-readme-stats.vercel.app/api?username=dhjddcn)
+![skills](https://skillicons.dev/icons?perline=14&i=php,vue,nodejs,ts,py,golang,git,github,html,idea,js,linux,md,mysql,nginx,ps,redis,sqlite,tailwind,vercel,vite,vscode)
 
 我是一名前端开发编程者，热爱编程、热爱分享，代码改变世界。欢迎你对我的项目提出宝贵的意见和建议 ！
 
