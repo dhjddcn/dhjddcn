@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![skills](https://skillicons.dev/icons?perline=14&i=php,vue,nodejs,ts,py,golang,git,github,html,idea,js,linux,md,mysql,nginx,ps,redis,sqlite,tailwind,vercel,vite,vscode)
-
 我是一名前端开发编程者，热爱编程、热爱分享，代码改变世界。欢迎你对我的项目提出宝贵的意见和建议 ！
 
 ### 与我相关 
 * [🎈&nbsp;&nbsp;我的博客](https://dhjdd.cn/)
+
+### 技术相关 
+![skills](https://skillicons.dev/icons?perline=14&i=js,html,csss,vue,vite,ts,nodejs,md,github,git,ps,liunx,mysql,docker,nginx,idea)  
